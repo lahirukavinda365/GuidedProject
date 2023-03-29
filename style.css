@@ -1,0 +1,38 @@
+
+body{
+    background-color: #e6f3ff;
+    padding: 12%;
+}
+
+img {
+    float: right;
+}
+
+.pList{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 125px;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+}
+
+td, th{
+    text-align: left;
+    padding: 8px;
+    padding: 16px;
+}
+
+footer{
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
+    height: 15px;
+    padding: 12px 0;
+    width: 100%;
+    margin-top: 40px;
+    position: relative;
+}
